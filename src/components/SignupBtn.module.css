@@ -1,0 +1,17 @@
+.SignupBtn {
+  align-items: center;
+  display: flex;
+  width: 90vw;
+  height: 5vh;
+  margin: 3vh 5vw 0 5vw;
+  padding: 1vh 6vw;
+  color: white;
+  background-color: #517849;
+  border-radius: 20px;
+  text-decoration: none;
+  justify-content: center;
+  font-size: calc(1.25vw + 1.25vh);
+  font-weight: bold;
+  position: relative;
+  top: -15vh;
+}
